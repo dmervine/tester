@@ -412,6 +412,7 @@
 				BA3D06EC1A2015A800905B15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA3D06ED1A2015A800905B15 /* Build configuration list for PBXNativeTarget "testerTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				BA3D06EF1A2015A800905B15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
